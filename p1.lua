@@ -9,8 +9,8 @@ all the multiples of 3 or 5 below 1000.
 --- Sum multiples of 3 or 5 below n.
 ---@param n number The integer upper bound, equal to 1,000 for this problem.
 local function sum_integers(n)
-    local total=0
-    for i = 1,n do
+    local total = 0
+    for i = 1, n do
         if i % 3 == 0 or i % 5 == 0 then
             total = total + i
         end
