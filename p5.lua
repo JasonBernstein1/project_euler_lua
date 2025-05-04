@@ -6,7 +6,7 @@ from 1 to 20 without any remainder.
 
 What is the smallest positive number that is evenly divisible by all of
 the numbers from 1 to 20?
---]]
+]]
 
 --- Determine if a number is divisible by 1, 2, ..., 20.
 ---@param n number The number to check the divisibility of.

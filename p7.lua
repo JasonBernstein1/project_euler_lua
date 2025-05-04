@@ -2,7 +2,7 @@
 
 --[[
 What is the 10,001st prime number?
---]]
+]]
 
 --- Compute the nth smallest prime number.
 ---@param n number The index of the prime to compute.
